@@ -52,20 +52,20 @@ $result = $action->get_result();
     <a style="align-self: center;" href="logout.php">Logout</a>
     <footer>
         <div class="footer-container">
-            <p>© 2025 YourWebsite. All Rights Reserved.</p>
+            <p>LnT Mid Project - Back End</p>
             <div class="social-links">
-                <a href="https://www.instagram.com" target="_blank">
+                <a href="https://www.instagram.com/marcel_setyadji/" target="_blank">
                     <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" alt="Instagram">
                 </a>
-                <a href="https://twitter.com" target="_blank">
-                    <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492392.png" alt="X (Twitter)">
+                <a href="https://www.instagram.com/vinadrrr/" target="_blank">
+                    <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" alt="X (Twitter)">
                 </a>
-                <a href="https://www.facebook.com" target="_blank">
-                    <img src="https://img.icons8.com/ios_filled/512/228BE6/facebook.png" alt="Facebook">
+                <a href="https://www.instagram.com/ray_kurniii/" target="_blank">
+                    <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" alt="Facebook">
                 </a>
             </div>
         </div>
-    </footer>  
+    </footer>     
 </body>
 </html>
 
